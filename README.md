@@ -33,5 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Coding Challenge
 Please create a side navigation with at least two entries using the appropriate angular material design component.
+
 Use a router to navigate between the pages.
+
 Create a small overview of famous dogs and/or cats (with dummy data) using a material design list.
